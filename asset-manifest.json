@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Livres-React/static/css/main.72a99e6f.css",
+    "main.js": "/Livres-React/static/js/main.cc366adf.js",
+    "index.html": "/Livres-React/index.html",
+    "main.72a99e6f.css.map": "/Livres-React/static/css/main.72a99e6f.css.map",
+    "main.cc366adf.js.map": "/Livres-React/static/js/main.cc366adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a99e6f.css",
+    "static/js/main.cc366adf.js"
+  ]
+}
